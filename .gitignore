@@ -1,0 +1,8 @@
+#Ignore BACK_END modules
+/BACK_END/node_modules/
+/BACK_END/.env
+/BACK_END/artifacts/
+/BACK_END/cache/
+
+#Ignore front_end modules
+/front_end/node_modules
