@@ -1,7 +1,7 @@
 # NFT minter
 Give a custom link to the application and it would convert it into an NFT which would be available on the Polygon Mumbai testnet.
 
-# How to reproduce this in your local system?
+# How to run this in your local system?
 1. Clone the front_end file on your system
 2. Connect to metamask
 3. run the command "npm install"
